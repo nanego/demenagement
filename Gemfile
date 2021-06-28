@@ -10,7 +10,7 @@ gem 'jquery-ui-rails'
 gem 'jbuilder', '~> 2.0'
 gem 'administrate'
 gem 'sprockets', '~>3.0'
-gem 'nokogiri', '~> 1.10.0'
+gem 'nokogiri', '~> 1.11.4'
 
 gem 'bourbon'
 gem "bootstrap-sass", ">= 3.4.1"
